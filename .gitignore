@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+*.log
+.gemini/
+/brain/
+node_modules/
+dist/
+.env
+
+# .NET Specific
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.sqlite
+*.db
